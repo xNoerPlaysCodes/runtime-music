@@ -1,3 +1,4 @@
+This is just jagrosh/MusicBot but with my branding in some places and the code a lil bit modified.
 <img align="right" src="https://i.imgur.com/zrE80HY.png" height="200" width="200">
 
 # JMusicBot
